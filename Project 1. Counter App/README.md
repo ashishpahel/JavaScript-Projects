@@ -4,7 +4,7 @@
 
 #### Key concepts covered :-
 
-1. document.querySelector()
+1. Document.getElementById()
 2. addEventListener()
 3. textContent
 
