@@ -6,3 +6,5 @@ This repository contains projects build using HTML5 , CSS3 and JavaScript. Infor
 | ------------- | ------------- | -------- |
 | 01          | Counter App       | [Live Demo](https://counter-app-1999.netlify.app/)  |
 | 02 | Share Modal App | [Live demo](https://share-modal-app-1999.netlify.app/) |
+| 03 | Tic Tac Toe | [Live demo](https://tic-tac-toe-1999.netlify.app/) |
+| 04 | Weather App | [Live demo](https://weather-app-1999.netlify.app/)|
