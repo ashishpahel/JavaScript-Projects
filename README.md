@@ -9,3 +9,4 @@ This repository contains projects build using HTML5 , CSS3 and JavaScript. Infor
 | 03 | Tic Tac Toe | [Live demo](https://tic-tac-toe-1999.netlify.app/) |
 | 04 | Weather App | [Live demo](https://weather-app-1999.netlify.app/)|
 | 05 | Password Generator | [ Live demo ](https://password-generator-1999.netlify.app/)
+|06| Dev Detective | [Live demo](https://dev-detective-1999.netlify.app/)
